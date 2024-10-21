@@ -34,3 +34,6 @@ Proje sonunda, modelin doğruluk oranı ve diğer performans metrikleri hakkınd
 ## Lisans
 Bu proje MIT Lisansı altında lisanslanmıştır.
 
+## KAGGLE 
+https://www.kaggle.com/code/canerkl/a-large-scale-fish-classification-with-ann
+
